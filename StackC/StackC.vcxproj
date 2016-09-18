@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Catch.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D187DA44-1C7A-4D51-AC76-F921FDE9148F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
